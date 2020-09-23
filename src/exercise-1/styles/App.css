@@ -1,0 +1,12 @@
+.link{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.nav{
+    width: 50%;
+    height: 30px;
+    background-color: darkgrey;
+}
+.link:focus{
+    text-decoration: underline;
+}
