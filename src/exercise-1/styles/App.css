@@ -1,12 +1,13 @@
-.link{
-    margin-right: 20px;
-    text-decoration: none;
-}
 .nav{
     width: 50%;
     height: 30px;
     background-color: darkgrey;
 }
-.link:focus{
+
+.nav a:focus{
     text-decoration: underline;
+}
+.nav a{
+    margin-right: 20px;
+    text-decoration: none;
 }
